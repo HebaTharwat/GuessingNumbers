@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539273076 source:c:\users\dell-pc\desktop\embedded\guess the number\main.c
+	<stdio.h>
+	<stdlib.h>
+
